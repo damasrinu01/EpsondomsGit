@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-05T16:46:13 IST" name="RegressionTest" finished-at="2024-11-05T16:46:13 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2024-11-05T16:46:13 IST" name="ChromeTest" finished-at="2024-11-05T16:46:13 IST" duration-ms="119">
+      <class name="com.Epsondoms.ProductTest.WomensProductTest">
+        <test-method signature="addProduct()[pri:0, instance:com.Epsondoms.ProductTest.WomensProductTest@564fabc8]" started-at="2024-11-05T16:46:13 IST" name="addProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="removeProduct()[pri:0, instance:com.Epsondoms.ProductTest.WomensProductTest@564fabc8]" started-at="2024-11-05T16:46:13 IST" name="removeProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProduct -->
+        <test-method signature="updateProduct()[pri:0, instance:com.Epsondoms.ProductTest.WomensProductTest@564fabc8]" started-at="2024-11-05T16:46:13 IST" name="updateProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+      </class> <!-- com.Epsondoms.ProductTest.WomensProductTest -->
+      <class name="com.Epsondoms.ProductTest.ElectronicProductTest">
+        <test-method signature="addProduct()[pri:0, instance:com.Epsondoms.ProductTest.ElectronicProductTest@16d04d3d]" started-at="2024-11-05T16:46:13 IST" name="addProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="removeProduct()[pri:0, instance:com.Epsondoms.ProductTest.ElectronicProductTest@16d04d3d]" started-at="2024-11-05T16:46:13 IST" name="removeProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProduct -->
+        <test-method signature="updateProduct()[pri:0, instance:com.Epsondoms.ProductTest.ElectronicProductTest@16d04d3d]" started-at="2024-11-05T16:46:13 IST" name="updateProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+      </class> <!-- com.Epsondoms.ProductTest.ElectronicProductTest -->
+      <class name="com.Epsondoms.ProductTest.MensProductTest">
+        <test-method signature="addProduct()[pri:0, instance:com.Epsondoms.ProductTest.MensProductTest@72d1ad2e]" started-at="2024-11-05T16:46:13 IST" name="addProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="removeProduct()[pri:0, instance:com.Epsondoms.ProductTest.MensProductTest@72d1ad2e]" started-at="2024-11-05T16:46:13 IST" name="removeProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProduct -->
+        <test-method signature="updateProduct()[pri:0, instance:com.Epsondoms.ProductTest.MensProductTest@72d1ad2e]" started-at="2024-11-05T16:46:13 IST" name="updateProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+      </class> <!-- com.Epsondoms.ProductTest.MensProductTest -->
+      <class name="com.Epsondoms.ProductTest.KidsProductTest">
+        <test-method signature="addProduct()[pri:0, instance:com.Epsondoms.ProductTest.KidsProductTest@49ec71f8]" started-at="2024-11-05T16:46:13 IST" name="addProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProduct -->
+        <test-method signature="removeProduct()[pri:0, instance:com.Epsondoms.ProductTest.KidsProductTest@49ec71f8]" started-at="2024-11-05T16:46:13 IST" name="removeProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProduct -->
+        <test-method signature="updateProduct()[pri:0, instance:com.Epsondoms.ProductTest.KidsProductTest@49ec71f8]" started-at="2024-11-05T16:46:13 IST" name="updateProduct" finished-at="2024-11-05T16:46:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProduct -->
+      </class> <!-- com.Epsondoms.ProductTest.KidsProductTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- RegressionTest -->
+</testng-results>
